@@ -9,7 +9,7 @@ The Airbnb Clone Project is a collaborative software engineering project aimed a
 - Practice collaboration, version control, and team workflows.
 - Implement robust backend APIs for managing users, properties, and bookings.
 
-## Tech Stack
+## Technology Stack
 - Django (backend framework)
 - PostgreSQL (database)
 - GraphQL (API query language)
